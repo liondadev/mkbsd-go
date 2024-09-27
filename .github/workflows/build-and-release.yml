@@ -23,6 +23,7 @@ jobs:
           files: |
             ./mkbsd-win-x64.exe
             ./mkbsd-linux-x64
-          token: {{secrets.GH_PAT}}
+          token: ${{secrets.GH_PAT}}
+
 
 
