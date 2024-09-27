@@ -14,7 +14,7 @@ This is a faster, concurrent implementation of [MKBSD](https://github.com/nadimk
 
 | Stat | Value |
 |------|-------|
-| Seconds Taken| 5 |
+| Seconds Taken| ~20 |
 
 Raw Execution:
 ```
