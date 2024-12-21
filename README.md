@@ -1,3 +1,6 @@
+> [!NOTE]
+> They fixed it, this won't work anymore.
+
 # MKBSD-go
 This is a faster, concurrent implementation of [MKBSD](https://github.com/nadimkobeissi/mkbsd).
 
